@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-simulation d'un conflit
+simulation d'un conflit : méthode 2
 
 
 ```
