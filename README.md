@@ -18,6 +18,7 @@ A définir
 ### Installation
 
 simulation d'un conflit : méthode manuelle
+simulation d'un conflit : méthode 3
 
 
 ```
