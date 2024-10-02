@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-conservation de la version distante
+simulation d'un conflit : méthode 2
 
 
 ```
