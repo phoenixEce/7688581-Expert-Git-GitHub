@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-simulation d'un conflit
+conservation de la version distante
 
 
 ```
